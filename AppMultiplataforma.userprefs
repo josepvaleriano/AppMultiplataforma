@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{E5A0C39D-33A1-4E82-8CD9-093EB47E50F5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppMultiplataforma/AppMultiplataformaPage.xaml">
+    <Files>
+      <File FileName="AppMultiplataforma/App.xaml" Line="1" Column="1" />
+      <File FileName="AppMultiplataforma/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="AppMultiplataforma/AppMultiplataformaPage.xaml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AppMultiplataforma.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C9523E26-DD68-46F6-A324-0BEFC0A610AD" />
+</Properties>
